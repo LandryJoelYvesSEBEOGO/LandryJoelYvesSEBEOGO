@@ -5,27 +5,62 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Landry+Yves+Joel!;" />
 </h1>
 
-<h3 align="center">A passionate of Data science, Machine learning and Deep Learning </h3>
+# 👋 Hi there, I'm Landry Yves Joel SEBEOGO
 
-<br/>
+<h3 align="center">Data Science Engineer | Passionate about Artificial Intelligence and Machine Learning</h3>
+
+---
+
+<p align="center">
+🎯 I help transform data into impactful solutions through my expertise in Data Science, Machine Learning, and Deep Learning.
+</p>
+
+---
+
+## 🛠 Technical Skills
+
+- **Programming Languages**: Python, SQL, R
+- **Data Science & Machine Learning**: Data preprocessing, Feature Engineering, Statistical Modeling
+- **Supervised Learning Algorithms**: Regression, KNN, SVM, Random Forest, XGBoost, LightGBM
+- **Deep Learning**:
+  - NLP with Transformers
+  - Computer Vision (CNN)
+  - Time Series (LSTM)
+  - Graph Neural Networks (GNN)
+- **Generative Models**: GANs, ProGAN, SRGAN
+- **DevOps and Cloud**: Docker, Big Data (Spark, Hadoop), AWS
+- **Web Development**: Flask, Streamlit
+
+---
+
+## 📈 Professional Experience
+
+- **Freelance Data Scientist** | Developed an AI bot for automated web scraping
+- **Freelance Data Scientist** | Thesis: Semi-supervised learning for breast cancer detection
+- **Freelance Data Scientist** | Image reconstruction using GANs
+- **Freelance Data Scientist** | Fine-tuning LLMs for fraudulent SMS detection
+- **Assistant Engineer** | Actemium Vinci Energies: Process optimization from loading to delivery
+- **Consultant Data Scientist** | Tecpap x Centrale Casablanca: Optimizing resource allocation for order processing
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently deepening my knowledge in **Machine Learning, Deep Learning, and MLOps**.
+- 💬 Feel free to ask me about **KNN, Random Forest, CNN, GANs...** or anything else [here](https://github.com/LandryJoelYvesSEBEOGO).
+- 📩 **Open to new opportunities and collaborations** as a Junior Data Scientist.
+- ⚡ Fun Fact: **There’s nothing better than pasta 🍝!**
+
+---
 
 <div align="center">
- 
- 🌱 I’m currently learning ** machine Learning Algorithms, Deeep Learning Algorithms**
 
-💬 Ask me about **  KNN , Randoms forest, CNN... or anything [here](https://github.com/LandryJoelYvesSEBEOGO)**
+<h3>🤝 Feel free to contact me for collaborations or exciting Data Science projects!</h3>
 
-⚡ Fun fact **There is nothing better than pasta**
+</div>
 
- </div>
- 
-<div align="center"> 
-  <a href="sebeogojoel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="www.linkedin.com/in/sebeogolandry01" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+---
+
 
  <hr/>
  
