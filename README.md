@@ -27,7 +27,7 @@
   - Computer Vision (CNN)
   - Time Series (LSTM)
   - Graph Neural Networks (GNN)
-- **Generative Models**: GANs, ProGAN, SRGAN
+- **Generative Models**: RAG, GANs, ProGAN, SRGAN
 - **DevOps and Cloud**: Docker, Big Data (Spark, Hadoop), AWS
 - **Web Development**: Flask, Streamlit
 
